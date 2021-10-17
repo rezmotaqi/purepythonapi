@@ -1,1 +1,1 @@
-# purepythonapi
+# Pure python api
